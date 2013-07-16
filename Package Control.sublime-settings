@@ -1,0 +1,28 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"ApplySyntax",
+		"Arduino",
+		"Arduino-like IDE",
+		"CoffeeScript",
+		"Focus",
+		"Gem Browser",
+		"GitGutter",
+		"Guard",
+		"HtmlTidy",
+		"Package Control",
+		"PlainTasks",
+		"rails_go_to_spec",
+		"SCSS",
+		"SideBarEnhancements",
+		"Simple Rails Navigator",
+		"SublimeCodeIntel",
+		"Theme - Flatland",
+		"Theme - Nil",
+		"Theme - Phoenix",
+		"Theme - Reeder",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}

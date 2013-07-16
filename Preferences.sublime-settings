@@ -1,0 +1,57 @@
+{
+	"auto_complete": false,
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Bright.tmTheme",
+	"draw_white_space": "all",
+	"find_selected_text": true,
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		"bin",
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"_build",
+		"dist",
+		"build",
+		"site",
+		".localeapp",
+		".gitkeep",
+		"tmp",
+		"log",
+		".sass-cache",
+		".bundle"
+	],
+	"font_face": "Ubuntu Mono",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 15.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Batch File",
+		"ASP",
+		"Arduino-like IDE",
+		"SublimeCodeIntel",
+		"Arduino",
+		"Vintage",
+		"AppleScript",
+		"GitGutter",
+		"C++",
+		"HtmlTidy",
+		"Color Scheme - Default"
+	],
+	"rulers":
+	[
+		72,
+		79
+	],
+	"tab_size": 2,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": false
+}

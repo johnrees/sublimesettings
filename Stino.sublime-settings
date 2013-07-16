@@ -1,0 +1,11 @@
+{
+	"baudrate": "9600",
+	"language": "English",
+	"plugin_root": "/Users/john/Library/Application Support/Sublime Text 2/Packages/Arduino-like IDE",
+	"serial_port": "/dev/tty.Bluetooth-Modem",
+	"show_Arduino_menu": false,
+	"show_arduino_menu": true,
+	"show_serial_menu": false,
+	"show_serial_monitor_menu": "",
+	"sketchbook_root": "/Users/john/Documents/Arduino"
+}
